@@ -1,0 +1,14 @@
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.AssemblyInfoInputs.cache
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.AssemblyInfo.cs
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\bin\Debug\net8.0\aaaaaa.exe
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\bin\Debug\net8.0\aaaaaa.deps.json
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\bin\Debug\net8.0\aaaaaa.runtimeconfig.json
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\bin\Debug\net8.0\aaaaaa.dll
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\bin\Debug\net8.0\aaaaaa.pdb
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.dll
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\refint\aaaaaa.dll
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.pdb
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\aaaaaa.genruntimeconfig.cache
+C:\Users\SADValenz\source\repos\aaaaaa\aaaaaa\obj\Debug\net8.0\ref\aaaaaa.dll

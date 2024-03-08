@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eventoprueba/1.0.0": {
+        "runtime": {
+          "eventoprueba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eventoprueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

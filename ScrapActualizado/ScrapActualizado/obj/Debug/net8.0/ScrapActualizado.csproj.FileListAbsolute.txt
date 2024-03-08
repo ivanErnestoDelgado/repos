@@ -1,0 +1,14 @@
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\bin\Debug\net8.0\ScrapActualizado.exe
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\bin\Debug\net8.0\ScrapActualizado.deps.json
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\bin\Debug\net8.0\ScrapActualizado.runtimeconfig.json
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\bin\Debug\net8.0\ScrapActualizado.dll
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\bin\Debug\net8.0\ScrapActualizado.pdb
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.AssemblyInfoInputs.cache
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.AssemblyInfo.cs
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.csproj.CoreCompileInputs.cache
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.dll
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\refint\ScrapActualizado.dll
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.pdb
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ScrapActualizado.genruntimeconfig.cache
+C:\Users\SADValenz\source\repos\ScrapActualizado\ScrapActualizado\obj\Debug\net8.0\ref\ScrapActualizado.dll

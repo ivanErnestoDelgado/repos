@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto jaja", "proyecto jaja\proyecto jaja.csproj", "{510A2727-79CA-42F0-81BE-5662F33F249E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto jajaTests", "proyecto jajaTests\proyecto jajaTests.csproj", "{8CF79B04-5160-4EA4-96AC-5EAAAB00CAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510A2727-79CA-42F0-81BE-5662F33F249E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510A2727-79CA-42F0-81BE-5662F33F249E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510A2727-79CA-42F0-81BE-5662F33F249E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510A2727-79CA-42F0-81BE-5662F33F249E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF79B04-5160-4EA4-96AC-5EAAAB00CAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF79B04-5160-4EA4-96AC-5EAAAB00CAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF79B04-5160-4EA4-96AC-5EAAAB00CAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF79B04-5160-4EA4-96AC-5EAAAB00CAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5B6385-8BC8-4963-AE5C-8BAE8B7E03AB}
+	EndGlobalSection
+EndGlobal

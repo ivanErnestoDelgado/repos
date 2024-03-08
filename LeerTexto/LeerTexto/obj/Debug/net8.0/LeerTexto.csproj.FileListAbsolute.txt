@@ -1,0 +1,14 @@
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\bin\Debug\net8.0\LeerTexto.exe
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\bin\Debug\net8.0\LeerTexto.deps.json
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\bin\Debug\net8.0\LeerTexto.runtimeconfig.json
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\bin\Debug\net8.0\LeerTexto.dll
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\bin\Debug\net8.0\LeerTexto.pdb
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.AssemblyInfoInputs.cache
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.AssemblyInfo.cs
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.csproj.CoreCompileInputs.cache
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.dll
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\refint\LeerTexto.dll
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.pdb
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\LeerTexto.genruntimeconfig.cache
+C:\Users\SADValenz\source\repos\LeerTexto\LeerTexto\obj\Debug\net8.0\ref\LeerTexto.dll
