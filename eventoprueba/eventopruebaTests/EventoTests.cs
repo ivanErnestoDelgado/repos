@@ -115,14 +115,110 @@ namespace Tests
         {
 
             MazoEventos mazo = new MazoEventos("Prueba.txt");
-            Evento evento = mazo.repartirCarta();
+            Evento evento = mazo.repartirEvento();
             Assert.IsNotNull(evento);
         }
-        
-        
+        [TestMethod]
+        public void repartirEventoSeAcaba()
+        {
 
+            MazoEventos mazo = new MazoEventos("Prueba.txt");
+            mazo.repartirEvento();
+            mazo.repartirEvento();
+            
+            mazo.repartirEvento();
+            mazo.repartirEvento();
+            mazo.repartirEvento();
+            Assert.AreEqual(0,mazo.cantidadEventosRestantes);
 
-        
+        }
+        [TestMethod]
+        public void JugarEventoMandaEvento()
+        {
+
+            Mano mano = new Mano(new List<Evento>());
+            MazoEventos mazo = new MazoEventos("Prueba.txt");
+            foreach (Evento evento in mazo.mazo)
+            {
+                mano.recibirEvento(evento);
+            }
+
+            decision eventoJugado =mano.jugarEvento(1, 1);
+            Assert.IsNotNull(eventoJugado);
+        }
+        [TestMethod]
+        public void RecibirEventoEsCorrecto()
+        {
+            Mano mano = new Mano(new List<Evento>());
+            MazoEventos mazo = new MazoEventos("Prueba.txt");
+            foreach (Evento evento in mazo.mazo)
+            {
+                mano.recibirEvento(evento);
+
+            }
+            Assert.AreEqual(5, mano.mostrarMano().Count);
+        }
+
+            [TestMethod]
+        public void ManoEstaVacia()
+        {
+            Mano mano = new Mano(new List<Evento>());
+            Assert.IsTrue(mano.estaVacio());
+        }
+        [TestMethod]
+        public void ManoNoEstaVacia()
+        {
+            MazoEventos mazo = new MazoEventos("Prueba.txt");
+            var evento1 = new Evento(eventoAntesCristo);
+            Mano mano = new Mano(mazo.mazo);
+            Assert.IsFalse(mano.estaVacio());
+        }
+        [TestMethod]
+        public void ManoMuestraAlgo()
+        {
+            
+            MazoEventos mazo = new MazoEventos("Prueba.txt");
+            Mano mano = new Mano(new List<Evento>());
+            foreach (Evento evento in mazo.mazo) {
+                mano.recibirEvento(evento);
+            }
+            Assert.IsNotNull(mano.mostrarMano());
+
+        }
+        [TestMethod]
+        public void LineaSinPosicion()
+        {
+            Evento eventoPrueba = new Evento("1057/08/15-- Fallece Macbeth, rey de Escocia.");
+            linea lineaeventos = new linea(new Evento(eventoAntesCristo));
+            decision eventojugado = new decision(eventoPrueba, 3);
+            Assert.ThrowsException<LineaNoTienePosicionExcepcion>(() => lineaeventos.insertarLinea(eventojugado));
+        }
+        [TestMethod]
+        public void EventoPosicionIncorrecta()
+        {
+            Evento eventoPrueba = new Evento("1057/08/15-- Fallece Macbeth, rey de Escocia.");
+            linea lineaeventos = new linea(new Evento(eventoDespuesCristo));
+            decision eventojugado = new decision(eventoPrueba,1);
+            Assert.ThrowsException<posicionIncorrectaExcepcion>(() => lineaeventos.insertarLinea(eventojugado));
+
+        }
+        [TestMethod]
+        public void InsertarLinea()
+        {
+            Evento eventoPrueba = new Evento("1057/08/15-- Fallece Macbeth, rey de Escocia.");
+            linea lineaeventos = new linea(new Evento(eventoDespuesCristo));
+            decision eventojugado = new decision(eventoPrueba, 2);
+            lineaeventos.insertarLinea(eventojugado);
+        }
+        [TestMethod]
+        public void PosicionesDisponibles()
+        {
+            Evento eventoPrueba = new Evento("1057/08/15-- Fallece Macbeth, rey de Escocia.");
+            linea lineaeventos = new linea(new Evento(eventoDespuesCristo));
+            decision eventojugado = new decision(eventoPrueba, 2);
+            lineaeventos.insertarLinea(eventojugado);
+            Assert.AreEqual(3,lineaeventos.posicionesDisponibles);
+        }
 
 
 

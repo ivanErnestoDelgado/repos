@@ -232,3 +232,4 @@ C:\Users\aleja\source\repos\eventoprueba\eventopruebaTests\obj\Debug\net8.0\refi
 C:\Users\aleja\source\repos\eventoprueba\eventopruebaTests\obj\Debug\net8.0\eventopruebaTests.pdb
 C:\Users\aleja\source\repos\eventoprueba\eventopruebaTests\obj\Debug\net8.0\eventopruebaTests.genruntimeconfig.cache
 C:\Users\aleja\source\repos\eventoprueba\eventopruebaTests\obj\Debug\net8.0\ref\eventopruebaTests.dll
+C:\Users\SADValenz\source\repos\eventoprueba\eventopruebaTests\obj\Debug\net8.0\eventopruebaTests.sourcelink.json

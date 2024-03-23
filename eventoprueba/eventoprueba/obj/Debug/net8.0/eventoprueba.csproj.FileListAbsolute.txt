@@ -26,3 +26,4 @@ C:\Users\aleja\source\repos\eventoprueba\eventoprueba\obj\Debug\net8.0\refint\ev
 C:\Users\aleja\source\repos\eventoprueba\eventoprueba\obj\Debug\net8.0\eventoprueba.pdb
 C:\Users\aleja\source\repos\eventoprueba\eventoprueba\obj\Debug\net8.0\eventoprueba.genruntimeconfig.cache
 C:\Users\aleja\source\repos\eventoprueba\eventoprueba\obj\Debug\net8.0\ref\eventoprueba.dll
+C:\Users\SADValenz\source\repos\eventoprueba\eventoprueba\obj\Debug\net8.0\eventoprueba.sourcelink.json
